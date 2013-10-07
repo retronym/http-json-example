@@ -1,3 +1,5 @@
 target
 /logs
 *-shim.sbt
+.idea
+.idea_modules
